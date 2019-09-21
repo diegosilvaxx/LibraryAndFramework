@@ -8,4 +8,4 @@ Library and Framework for developer
 
 # Babel
 -Para o navegador suportar os novos codigos do ECMAScript. <br/>
--Link : com o yarn instalado 'yarn add @babel/preset-env' e 'yarn add @babel/cli'<br/>
+-Link : com o yarn instalado 'yarn add @babel/preset-env' , 'yarn add @babel/cli' e 'yarn add @babel/core'<br/>
