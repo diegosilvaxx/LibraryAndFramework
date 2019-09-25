@@ -9,3 +9,10 @@ Library and Framework for developer
 # Babel
 -Para o navegador suportar os novos codigos do ECMAScript. <br/>
 -Link : com o yarn instalado 'yarn add @babel/preset-env' , 'yarn add @babel/cli' e 'yarn add @babel/core'<br/>
+
+# Reactjs code snippets
+-Code snippets for Reactjs development in ES6 syntax <br/>
+-Fragmentos de código para desenvolvimento do Reactjs na sintaxe ES6 (Atalho) <br/>
+-Link : https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets<br/>
+
+
