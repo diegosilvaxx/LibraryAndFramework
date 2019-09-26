@@ -16,12 +16,12 @@ Library and Framework for developer
 -Link : https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets<br/>
 
 # NPM
--Use Router in React <br/>
+<strong>-Use Router in React</strong> <br/>
 -Link : npm i react-router-dom<br/>
 
 
 
 
-npm i react-router-dom
+
 
 
