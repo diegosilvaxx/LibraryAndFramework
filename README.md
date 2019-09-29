@@ -22,6 +22,9 @@ Library and Framework for developer
 <strong>-Gerenciador de rotas e view</strong> <br/>
 -Link : 'npm install express'<br/><br/>
 
+<strong>-Gerenciador de Server (Atualizar automatic)</strong> <br/>
+-Link : 'npm install -D nodemon'<br/><br/>
+
 <strong>-Use Redux in React</strong> <br/>
 -Link : 'npm i redux'<br/>
 -Link : 'npm i react-redux'<br/>
