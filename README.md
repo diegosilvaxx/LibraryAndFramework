@@ -31,6 +31,10 @@ Library and Framework for developer
 -Link : 'npm i redux-thunk'<br/>
 -Link : 'npm i redux-form'<br/><br/>
 
+<strong>-Instalação React</strong> <br/>
+-Link : 'npm install -g create-react-app'<br/>
+-Create: 'create-react-app NomeDoProjeto'<br/><br/>
+
 
 
 
