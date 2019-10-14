@@ -35,6 +35,10 @@ Library and Framework for developer
 -Link : 'npm install -g create-react-app'<br/>
 -Create: 'create-react-app NomeDoProjeto'<br/><br/>
 
+<strong>-Instalação BootStrap</strong> <br/>
+-Link : 'npm install react-bootstrap bootstrap'<br/>
+-Import: 'import 'bootstrap/dist/css/bootstrap.min.css';'<br/><br/>
+
 
 
 
