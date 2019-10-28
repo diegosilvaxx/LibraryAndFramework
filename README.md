@@ -39,6 +39,9 @@ Library and Framework for developer
 -Link : 'npm install react-bootstrap bootstrap'<br/>
 -Import: 'import 'bootstrap/dist/css/bootstrap.min.css';'<br/><br/>
 
+<strong>-Biblioteca para trabalhar com arquivos MultiPart (arquivos, imagem e etc)</strong> <br/>
+-Link : 'yarn add multer'<br/><br/>
+
 
 
 
