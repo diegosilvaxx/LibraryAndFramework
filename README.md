@@ -42,6 +42,12 @@ Library and Framework for developer
 <strong>-Biblioteca para trabalhar com arquivos MultiPart (arquivos, imagem e etc)</strong> <br/>
 -Link : 'yarn add multer'<br/><br/>
 
+<strong>-Biblioteca para enviar resposta,mensagem,alert e etc</strong> <br/>
+-Link : 'yarn add react-toastify'<br/><br/>
+
+
+
+
 
 
 
